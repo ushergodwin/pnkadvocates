@@ -1,0 +1,80 @@
+body {
+    font-family: 'Open Sans';
+    font-size: 18px;
+}
+
+.no-js #loader {
+    display: none;
+}
+
+.js #loader {
+    display: block;
+    position: absolute;
+    left: 100px;
+    top: 0;
+}
+
+.list-group {
+    overflow-x: auto;
+}
+
+.footer-link,
+.b-link {
+    text-decoration: none;
+}
+
+.b-link:hover {
+    color: #6c757d!important;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.vision p:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
+
+.hr1 hr {
+    border: none;
+    height: 8px;
+    background: gray;
+    margin-bottom: 50px;
+}
+
+.vr {
+    border-left: 6px solid gray;
+    height: 70px;
+}
+
+@media screen and (max-width: 620px) {
+    .hr1 hr,
+    .vr {
+        display: none;
+    }
+}
+
+.all .card-img-overlay {
+    display: none;
+}
+
+.all:hover .card-img-overlay {
+    display: block;
+    cursor: pointer;
+    background-color: rgb(108, 117, 125, 0.7);
+    border-radius: 5px;
+}
+
+.custom-nav a {
+    font-size: 18px;
+}
+
+.control-label {
+    width: 100%;
+}
