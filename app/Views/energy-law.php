@@ -1,25 +1,35 @@
 <img src="<?= base_url('assets/imgs/site/appointment-header.jpg') ?>" width="100%" class="img-responsive"/>
 <div class="container-fluid">
     <br/>
-    <h4>Energy and Infrastructure</h4>
+    <h3 class="text-pink font-weight-bold">Energy and Natural Resources</h3>
     <div class="row">
         <div class="col-md-12 col-lg-6 col-xl-6">
-            <p>Our team comprises lawyers that have in-depth knowledge of international and Uganda laws and how these interact with corporate and project finance under Energy projects and operations. Our lawyers further have a profound understanding of the innate aspects that accompany natural resource projects technically, financially and commercially and thus able to offer wide range of services in this area including; 
+            <p>
+            In a world where the demands for energy are growing exponentially, those operating in the energy sector are looking to their lawyers to provide more than legal skill; they are also seeking in-depth sector know-how and innovative solutions to the challenges they face. PNK Advocates’ energy lawyers deliver to our clients the focused, innovative sector advice they need, wherever in the world they need it.
             </p>
-            <ul>
-                <li>Advising project sponsors, local and international financial institu­tions on all aspects of infrastructure project financing</li>
-                <li>Legal due diligence in the entire project lifecycle.</li>
-                <li>Advising companies and institutions on all aspects of procurement, negotiation and contract documentation for projects in Uganda;</li>
-                <li>Advising clients on all licenses and permits required under Ugandan law to accomplish energy projects and the requirements for retention of such permits;</li>
-                <li>Acquisition of licenses and permits required under Ugandan law for establishment of Energy projects</li>
-                <li>Litigation and domestic or international arbitration in respect to disputes arising out of Energy and power operations or agreements.</li>
-                <li>Negotiation and drafting of different agreements in the energy sector such as power service agreements and power generation agreements.</li>
-                <li>Legal advisory on acquisition of land and resettlement action plans.</li>
-            </ul>
+            <br/>
+            <p>
+            In a sector of relentless change, demand and complexity, private and public corporations wisely rely on experienced, global legal counsel for any matter involving energy.
+            </p>
+            <p>
+            We are entering an era of unprecedented demand for power generation and transmission, especially within emerging economies. This dynamic, together with the challenges we all face from climate change, is creating new opportunities for alternative energies and new technologies.
+            </p>
+            <p>
+            Our energy clients receive coordinated, across-the-board coverage for their needs, including construction and projects, corporate, competition, regulatory, contractual, trading, litigation/arbitration, dispute resolution and tax issues. We understand the technical, geographical, commercial and geopolitical factors that shape the industry and have first-hand access to contacts, sponsors and decision makers worldwide.
+            </p>
+            <p>
+            PNK Advocates’ energy team includes professionals in the detailed, multi-layered and often complex regulatory frameworks that apply to energy sector projects and activities. We advise regulators, the regulated, investors and other industry participants on the implications of the regulatory framework during the planning, development and operational stages of many energy projects and activities.
+            </p>
+            <p>
+            For decades, we have represented organizations operating in the sector throughout the world. Our global team serves clients in the power, oil and gas, renewable, nuclear, energy trading, climate change and water markets. Alongside energy companies, our clients include project sponsors, corporations, developers, financial institutions, governments, utilities and regulatory bodies.
+            </p>
+            <p>
+            We work with a broad scope of clients ranging from the world’s largest oil and gas companies to investment banks active in energy and commodities trading and venture-backed alternative energy entrepreneurs. Our lawyers provide strategic advice on planning, development, financing and permitting matters, as well as legislative, political and regulatory issues.
+            </p>
         </div>
 
         <div class="col-md-12 col-lg-6 col-xl-6">
-            <span><i>Lawyers in the department of Energy</i></span>
+            <span class="text-pink"><i>Lawyers in the department of Energy</i></span>
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-xl-4">
                     <div class="card card-body shadow team-member-card">

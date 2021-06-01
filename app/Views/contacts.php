@@ -1,22 +1,22 @@
 <div class="container-fluid mt-5">
     <div class="row">
         <div class="col-md-12 col-lg-6 col-xl-6 wow slideInDown" data-wow-duration="3s">
-            <div class="card border-0">
+            <div class="card border-0 bg-pink text-light">
                 <div class="card-body">
                     <h4>Our Contacts</h4>
                     <div class="row justify-content-between">
-                        <h5 class="text-dark font-weight-bold">Address: <i class="fas fa-arrow-right text-primary"></i></h5>
-                        <p class="text-muted">Sixth Floor – Trust Tower, Plot 4 Kyadondo Road, Nakasero</p>
+                        <h5 class="font-weight-bold">Address: <i class="fas fa-arrow-right text-primary"></i></h5>
+                        <p>Sixth Floor – Trust Tower, Plot 4 Kyadondo Road, Nakasero</p>
                     </div>
                     <br/>
                     <div class="row justify-content-between">
-                        <h5 class="text-dark font-weight-bold">Telephone: <i class="fas fa-arrow-right text-primary"></i></h5>
-                        <p class="text-muted">+256 200 903 169</p>
+                        <h5 class="font-weight-bold">Telephone: <i class="fas fa-arrow-right text-primary"></i></h5>
+                        <p>+256 200 903 169</p>
                     </div>
                     <br/>
                     <div class="row justify-content-between">
-                        <h5 class="text-dark font-weight-bold">Email: <i class="fas fa-arrow-right text-primary"></i></h5>
-                        <p class="text-muted">info@pnkadvocates.ug</p>
+                        <h5 class="font-weight-bold">Email: <i class="fas fa-arrow-right text-primary"></i></h5>
+                        <p>info@pnkadvocates.co.ug</p>
                     </div>
                     <br/>
                     <h4><u>Reach Out</u></h4>

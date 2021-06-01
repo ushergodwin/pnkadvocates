@@ -54,14 +54,14 @@ class Home extends BaseController
 		$this->render(view('includes/footer', $content));
 	}
 
-	public function gunCrimes() {
+	public function commercialLaw() {
 		$this->CTRL = new BlController();
         $content = [
             "base_url" => $this->CTRL->server->base_url(),
             "title" => "PNK ADVOCATES | GUN CRIMES"
         ];
         $this->render(view('includes/header', $content));
-		$this->render(view('gun-crimes', $content));
+		$this->render(view('commercial-law', $content));
 		$this->render(view('includes/footer', $content));
 	}
 
@@ -159,6 +159,18 @@ class Home extends BaseController
 				echo $this->CTRL->notification->info("All fields are quired");
 			}
 		}
+	}
+
+	public function privacyPolicy()
+	{
+        $this->CTRL = new BlController();
+        $content = [
+            "base_url" => $this->CTRL->server->base_url(),
+            "title" => "PNK ADVOCATES | PRACTICE AREAS"
+        ];
+        $this->render(view('includes/header', $content));
+		$this->render(view('privacy-policy', $content));
+		$this->render(view('includes/footer', $content));
 	}
 
 	public function auth() {

@@ -1,7 +1,7 @@
 <img src="<?= base_url('assets/imgs/site/appointment-header.jpg') ?>" width="100%" class="img-responsive"/>
 <div class="container-fluid">
     <br/>
-    <h4>Oil and Gas</h4>
+    <h4 class="text-pink font-weight-bold">Oil and Gas</h4>
     <div class="row">
         <div class="col-md-12 col-lg-6 col-xl-6">
             <p>We focus on providing legal services to clients within the upstream, midstream and downstream sectors relating to various aspects in the oil and gas industry.
@@ -19,7 +19,7 @@
         </div>
 
         <div class="col-md-12 col-lg-6 col-xl-6">
-            <span><i>Oil and Gas Lawyers</i></span>
+            <span class="text-pink font-weight-bold"><i>Oil and Gas Lawyers</i></span>
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-xl-4">
                     <div class="card card-body shadow team-member-card">

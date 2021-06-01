@@ -1,20 +1,19 @@
 <img src="<?= base_url('assets/imgs/site/appointment-header.jpg') ?>" width="100%" class="img-responsive"/>
 <div class="container-fluid">
     <br/>
-    <h4>Arbitration and Litigation</h4>
+    <h4 class="text-pink">Litigation & Dispute Resolution</h4>
     <div class="row">
         <div class="col-md-12 col-lg-6 col-xl-6">
-            <p>We focus on providing legal services to clients within the upstream, midstream and downstream sectors relating to various aspects in the oil and gas industry.
+            <p>
+            We are uniquely positioned to advise on these issues, Our local network provides an exceptional platform for handling major disputes and in recent years we have helped our clients to achieve success in some of the most complex disputes and investigations.We offer a seamless, integrated service for disputes and investigations, with expertise in individual jurisdictions but also an understanding of the interplay between different legal systems and regulations.
+
             </p>
-            <p>Our Team is also alive to the significance of environmental protection in the Oil & Gas Industry. Our lawyers, thus, provide advice to clients regarding various environmental issues from pollution through waste management and product liability to development control and lender liability. In this fast developing industry, a key aspect of our service is to forewarn clients of legislative and regulatory proposals of particular relevance to them.</p>
-            <p>Arbitration is a popular and widely used method of commercial dispute resolution in Uganda and worldwide. Whereas we have a fully-fledged team with significant experience in litigation, our lawyers are alive to the need to amicably settle disputes as this is not only a speedy and effective mode of dispute resolution but cost effective too.</p>
-            <p>Globally, commercial dispute resolution most commonly takes place through the method of arbitration. Our team has unmatched depth of experience and expertise in this field and offer a full range of services both in local and international arbitrations.</p>
-            <p>In instances where litigation is inevitable, we aim at having the matter resolved in the most cost effective way and the shortest time possible.</p>
-            <p>Our lawyers have experience before all the Courts of Judicature of Uganda, the East African Court of Justice as well as the Tax Appeals Tribunal and other bodies with quasi-judicial powers.</p>
+            <br/>
+            <p>PNK Advocates’ Team of lawyers are experienced in the full spectrum of litigation, dispute resolution and regulatory issues that our clients face. Our highly qualified teams are focused on resolving high risk litigation, international arbitration and regulatory investigations.We are committed to resolving disputes as efficiently as possible and are focused on offering solutions that are practical and commercial. Our peers know that we are always prepared to proceed, however, and recognize our record in delivering results for clients in major litigation and arbitrations. Our credibility is also acknowledged by regulators and prosecutors, which assists with the effective resolution of investigations and other negotiations.</p>
         </div>
 
         <div class="col-md-12 col-lg-6 col-xl-6">
-            <span><i>Tax Advisory</i></span>
+            <span><i>Litigation & Dispute Resolution Team</i></span>
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-xl-4">
                     <div class="card card-body shadow team-member-card">

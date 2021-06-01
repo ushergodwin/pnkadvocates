@@ -39,7 +39,7 @@ $routes->get('/', 'Home::index');
 $routes->get('practice-areas', 'Home::practiceAreas');
 $routes->get('practice/intellectual-property', 'Home::intellectualPropertyLaw');
 $routes->get('practice/energy-law', 'Home::energyLaw');
-$routes->get('practice/gun-crimes', 'Home::gunCrimes');
+$routes->get('practice/commercial-law', 'Home::commercialLaw');
 $routes->get('practice/litigation-and-arbitration', 'Home::litigationAndArbitration');
 $routes->get('practice/oil-and-gas-law', 'Home::oilAndGasLaw');
 $routes->get('practice/real-estate-and-conveyancing', 'Home::realEstateAndConveyancing');
@@ -48,6 +48,7 @@ $routes->get('contacts', 'Home::contactUs');
 $routes->add('send', 'Home::sendMessage');
 $routes->get('legal-team', 'Home::legalTeam');
 $routes->get('about-firm', 'Home::about');
+$routes->get('privacy-policy', 'Home::privacyPolicy');
 //$routes->add('vote/candidate/(:any)', 'VoteController::candidate/$1');
 /*
  * --------------------------------------------------------------------
