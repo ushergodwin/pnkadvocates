@@ -8,7 +8,7 @@
             </p>
             
             <p>
-            Combining product and sector focus, in the context of our global law firm, facilitates knowledge sharing of a consistently high standard and helps us better to understand client needs. We can offer our clients our practically applied IP knowledge and expertise, as well as a deep understanding of the challenges involved with conducting a market leading, international business in a constantly evolving technological environment.
+            Combining product and sector focus, in the context of our law firm, facilitates knowledge sharing of a consistently high standard and helps us better to understand client needs. We can offer our clients our practically applied IP knowledge and expertise, as well as a deep understanding of the challenges involved with conducting a market leading, international business in a constantly evolving technological environment.
             </p>
             <h5 class="text-pink font-weight-bold">Intellectual property advice</h5>
                 <p class="ml-3">Our IP teams offer a breadth of experience in IP transactional and advisory work, covering the full range of IP subjects, in both domestic and international contexts.</p>
@@ -23,7 +23,6 @@
                 <li>Advice on best practice use and protection of IP </li>
                 <li>Patent licensing and cross-licensing</li>
                 <li>Unfair competition</li>
-                <li>Advertising</li>
             </ul>
             <p>Like our IP disputes lawyers, most of our transactional and advisory IP lawyers focus on specific sectors and bring both pure and applied legal knowledge to client projects.</p>
             <h5 class="text-pink font-weight-bold">Intellectual property disputes and enforcement</h5>

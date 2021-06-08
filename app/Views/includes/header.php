@@ -20,7 +20,7 @@
 <div class="se-pre-con"></div>
 <nav class="container-fluid sticky-top wow slideInDown" style="background: url(<?= base_url('assets/imgs/site/top-bg-02.jpg') ?>)">
 <div class="row justify-content-between text-light">
-        <p>&nbsp; 6<sup>th</sup> Floor - Trust Towers, Plot 4 Kyadondo Road, Nakasero</p>
+        <p>&nbsp; 6<sup>th</sup> Floor - Trust Tower, Plot 4 Kyadondo Road, Nakasero</p>
         <p><a href="tel:+256393194153" class="b-link text-light"><i class="fas fa-phone-alt text-light"></i> +256 393 194 153</a></p>
         <p><a href="mailto:info@pnkadvocates.ug" class="b-link text-light"><i class="fas fa-envelope text-light"></i> info@pknadvocates.co.ug</a></p> &nbsp;
 </div>
@@ -40,6 +40,8 @@
             <a href="<?= site_url('legal-team') ?>" class="nav-item nav-link text-pink">Our Team</a>
             <a href="<?= site_url('practice-areas') ?>" class="nav-item nav-link text-pink">Practice Areas</a>
             <a href="<?= site_url('contacts') ?>" class="nav-item nav-link text-pink">Contact Us</a>
+            <a href="<?= site_url('privacy-policy') ?>" class="nav-item nav-link text-pink">Privacy Policy</a>
+            
         </div>
     </div>
 </nav>

@@ -5,7 +5,8 @@
     <div class="row">
         <div class="col-md-12 col-lg-6 col-xl-6">
             <p>
-            We are uniquely positioned to advise on these issues, Our local network provides an exceptional platform for handling major disputes and in recent years we have helped our clients to achieve success in some of the most complex disputes and investigations.We offer a seamless, integrated service for disputes and investigations, with expertise in individual jurisdictions but also an understanding of the interplay between different legal systems and regulations.
+            We are uniquely positioned to advise on these issues,
+             Our local network provides an exceptional platform for handling major disputes and helped our clients to achieve success in some of the most complex disputes and investigations.We offer a seamless, integrated service for disputes and investigations, with expertise in individual jurisdictions but also an understanding of the interplay between different legal systems and regulations.
 
             </p>
             <br/>

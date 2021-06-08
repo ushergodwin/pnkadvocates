@@ -65,12 +65,12 @@
         </div>
         <div class="col-md-12 col-lg-3 col-xl-3 wow zoomIn" data-wow-duration="1s">
             <div class="card border-0 all mt-3">
-                <img class="card-img-top" src="<?= base_url('assets/imgs/site/energy-law-768x597.jpg') ?>" alt="Energy and Infrastructure"/>
+                <img class="card-img-top" src="<?= base_url('assets/imgs/site/118-Employment-and-Labour-Law.jpg') ?>" alt="Energy and Infrastructure"/>
                 <div class="card-body">
-                    <h4>Energy Law</h4>
+                    <h4>Employment and Labour</h4>
                     <div class="card-img-overlay"></div>
-                    <span>Energy law is the field of law concerned with creating, enforcing...</span><br/>
-                    <a href="<?= site_url('practice/energy-law') ?>" class="stretched-link text-muted b-link">READ MORE &nbsp;<i class="fas fa-arrow-right"></i> </a>
+                    <span>Our diverse experience in employment and Labour Practice has a good track record. We advise and guide...</span><br/>
+                    <a href="<?= site_url('practice/employment-and-labour') ?>" class="stretched-link text-muted b-link">READ MORE &nbsp;<i class="fas fa-arrow-right"></i> </a>
                 </div>
             </div>
         </div>

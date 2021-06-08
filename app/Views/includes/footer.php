@@ -15,7 +15,7 @@
         </div>
         <div class="col-md-12 col-lg-3 col-xl-3 mt-3">
         <h4>Address</h4>
-            <p>Sixth Floor - Trust Towers, Plot 4,</p>
+            <p>6<sup>th</sup> Floor - Trust Tower, Plot 4,</p>
             <p> Kyadondo Road, Nakasero</p>
             <p>Email: info@pnkadvocates.co.ug</p>
             <p>Phone: +256 393 194 153</p>

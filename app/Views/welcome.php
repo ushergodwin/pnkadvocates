@@ -75,12 +75,12 @@
              <div class="card">
                     <div class="card-header" id="headingFive">
                         <h2 class="mb-0">
-                        <button type="button" class="btn btn-link text-pink" data-toggle="collapse" data-target="#collapseFive"><i class="fa fa-plus"></i>Energy and Natural Resources</button>									
+                        <button type="button" class="btn btn-link text-pink" data-toggle="collapse" data-target="#collapseFive"><i class="fa fa-plus"></i>Employment and Labour</button>									
                      </h2>
                 </div>
                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                     <div class="card-body">
-                    <p>In a world where the demands for energy are growing exponentially, those operating in the energy sector are looking to their lawyers to provide more than legal skill...
+                    <p>Our diverse experience in employment and Labour Practice has a good track record. We advise and guide the corporate and business entities on all...
                      <br/><a href="<?= site_url('practice/energy-law') ?>" target="_self">Learn more.</a></p>
                     </div>
                 </div>

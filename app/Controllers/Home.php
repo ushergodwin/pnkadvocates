@@ -43,14 +43,14 @@ class Home extends BaseController
 		$this->render(view('includes/footer', $content));
 	}
 
-	public function energyLaw() {
+	public function employmentAndLabour() {
 		$this->CTRL = new BlController();
         $content = [
             "base_url" => $this->CTRL->server->base_url(),
-            "title" => "PNK ADVOCATES | ENERGY LAW"
+            "title" => "PNK ADVOCATES | EMPLOYMENT AND LABOUR"
         ];
         $this->render(view('includes/header', $content));
-		$this->render(view('energy-law', $content));
+		$this->render(view('employment-and-labour', $content));
 		$this->render(view('includes/footer', $content));
 	}
 

@@ -38,7 +38,7 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('practice-areas', 'Home::practiceAreas');
 $routes->get('practice/intellectual-property', 'Home::intellectualPropertyLaw');
-$routes->get('practice/energy-law', 'Home::energyLaw');
+$routes->get('practice/employment-and-labour', 'Home::employmentAndLabour');
 $routes->get('practice/commercial-law', 'Home::commercialLaw');
 $routes->get('practice/litigation-and-arbitration', 'Home::litigationAndArbitration');
 $routes->get('practice/oil-and-gas-law', 'Home::oilAndGasLaw');
