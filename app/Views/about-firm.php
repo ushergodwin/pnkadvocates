@@ -1,4 +1,4 @@
-<img src="<?= base_url('assets/imgs/team/boardroom.jpg') ?>" width="100%" class="img-responsive"/>
+<img src="<?= base_url('assets/imgs/team/images-slider-02.png') ?>" width="100%" class="img-responsive"/>
 <div class="container-fluid mt-5">
     <h3 class="font-weight-bold text-center text-muted">Our Profile</h3>
     <p>The Firm was formed by Legal Practitioners to provide specialized legal and support services to individuals and corporate clients in various practice areas including, Banking and Finance; Litigation and Arbitration; Tax Advisory, Corporate and Commercial Law; Energy Law; Property; Oil and Gas Law; Employment Law, Immigration Law and Intellectual Property Law.</p>

@@ -1,4 +1,4 @@
-<img src="<?= base_url('assets/imgs/site/appointment-header.jpg') ?>" width="100%" class="img-responsive"/>
+<img src="<?= base_url('assets/imgs/site/law.jpg') ?>" width="100%" height="350px" class="img-responsive"/>
 <div class="container-fluid bg-pink">
     <h4 class="text-center text-light">We offer services in the following areas</h4>
     <div class="row mt-3">

@@ -11,7 +11,7 @@
                     <br/>
                     <div class="row justify-content-between">
                         <h5 class="font-weight-bold">Telephone: <i class="fas fa-arrow-right text-primary"></i></h5>
-                        <p>+256 200 903 169</p>
+                        <p class="text-light"><a href="tel:+256393194153" class="text-light">+256 393 194 153</a></p>
                     </div>
                     <br/>
                     <div class="row justify-content-between">

@@ -21,7 +21,7 @@
 <nav class="container-fluid sticky-top wow slideInDown" style="background: url(<?= base_url('assets/imgs/site/top-bg-02.jpg') ?>)">
 <div class="row justify-content-between text-light">
         <p>&nbsp; 6<sup>th</sup> Floor - Trust Towers, Plot 4 Kyadondo Road, Nakasero</p>
-        <p><a href="tel:+256200903169" class="b-link text-light"><i class="fas fa-phone-alt text-light"></i> +256 200 903 169</a></p>
+        <p><a href="tel:+256393194153" class="b-link text-light"><i class="fas fa-phone-alt text-light"></i> +256 393 194 153</a></p>
         <p><a href="mailto:info@pnkadvocates.ug" class="b-link text-light"><i class="fas fa-envelope text-light"></i> info@pknadvocates.co.ug</a></p> &nbsp;
 </div>
 </nav>

@@ -1,7 +1,7 @@
-<img src="<?= base_url('assets/imgs/logo/law.png') ?>" width="100%" height="300px" class="img-responsive"/>
+<img src="<?= base_url('assets/imgs/site/law.jpg') ?>" width="100%" height="350px" class="img-responsive"/>
 <div class="container-fluid mt-5 bg-pink">
     <h3 class="font-weight-bold text-center text-light" text-light>Meet Our Attorneys</h3>
-    <div class="row mt-2">
+    <!-- <div class="row mt-2">
                 <div class="col-md-4 col-lg-3 col-xl-3">
                     <div class="card card-body shadow team-member-card">
                         <img src="<?= base_url('assets/imgs/team/sample-team.jpg') ?>" class="card-img-top" alt="sample team"/>
@@ -125,5 +125,5 @@
                         <span class="text-muted">MANAGER PARTNER</span>
                     </div>
                 </div>
-            </div>
+            </div> -->
 </div>
