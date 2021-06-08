@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><?= $title ?></title>
     <!-- CSS file -->
-    <link rel="shortcut icon" type="image/png" href="<?= base_url('assets/imgs/icon/favicon.ico') ?>"/>
+    <link rel="shortcut icon" type="image/png" href="<?= base_url('assets/imgs/logo/pnk-logo.jpeg') ?>"/>
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/bootstrap/css/bootstrap.min.css') ?>"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
     <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>

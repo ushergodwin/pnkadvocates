@@ -149,12 +149,12 @@ class Home extends BaseController
 			$name = $this->CTRL->input->post('name');
 			$email = $this->CTRL->input->post('email');
 			$message = $this->CTRL->input->post('message');
-			$to = "info@pnkadvocates.ug";
+			$to = "info@pnkadvocates.co.ug";
 			$subject = "MESSAGE FROM WEBSITE";
 			$from = strtoupper($name). "<$email>";
 		
 			if (!empty(trim($name)) && !empty(trim($email)) && !empty(trim($message)) && filter_var($email, FILTER_VALIDATE_EMAIL)) {
-				$this->CTRL->mail->send($to, $subject, $message, "PNK PA", $from);
+				$this->CTRL->mail->send($to, $subject, $message, "PNK ADVOCATES", $from);
 			}else {
 				echo $this->CTRL->notification->info("All fields are quired");
 			}

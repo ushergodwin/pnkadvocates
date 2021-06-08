@@ -2,7 +2,7 @@
     <br/>
     <div class="row">
     <div class="col-md-12 col-lg-3 col-xl-3">
-        <img src="<?= base_url('assets/imgs/logo/law-hammer-01.png') ?>" class="img-responsive rounded-circle"/>
+        <img src="<?= base_url('assets/imgs/logo/pnk-logo.jpeg') ?>" width="60%;" height="160px;" class="img-responsive rounded-circle"/>
         <h2>PNK ADVOCATES</h2>
         <a href="<?= site_url('privacy-policy') ?>" class="footer-link text-muted">Privacy Policy</a> &nbsp;&nbsp;&nbsp;
         <p>Copyright &copy; <?= date('Y') ?> PNK ADVOCATES</p>

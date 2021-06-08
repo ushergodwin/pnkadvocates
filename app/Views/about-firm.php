@@ -1,11 +1,22 @@
 <img src="<?= base_url('assets/imgs/team/images-slider-02.png') ?>" width="100%" class="img-responsive"/>
 <div class="container-fluid mt-5">
     <h3 class="font-weight-bold text-center text-muted">Our Profile</h3>
-    <p>The Firm was formed by Legal Practitioners to provide specialized legal and support services to individuals and corporate clients in various practice areas including, Banking and Finance; Litigation and Arbitration; Tax Advisory, Corporate and Commercial Law; Energy Law; Property; Oil and Gas Law; Employment Law, Immigration Law and Intellectual Property Law.</p>
+    <p>
+    Each of our members are well-respected experts with a strong understanding of local
+    business 
+    practices, laws, regulations, and culture and have deep-rooted relationships within
+     their 
+    communities. These strengths give  PNK Advocates’ members a true competitive advantage
+     in providing a seamless and personalized
+     experience for their clients across all industry and commercial sectors.
+    </p>
     <br/>
-    <p>The Firm comprises lawyers from diverse backgrounds and hires support staff. Our team of lawyers include: – William Were (Managing Partner), Ronald Asiimwe Mitegyeko (Partner), Elisha Bafirawala (Partner), Denis Koire (Senior Associate), Joan Kansiime Mugumya (Senior Associate), Jjumba Lawrence (Associate) and Eve Mbabazi (Legal Assistant).</p>
-    <br/>
-    <p>Although the Firm is relatively new on the scene, it was formed by an experienced team of Advocates of the Courts of Judicature of Uganda. The team brings together the wealth of experience from diverse practice areas and backgrounds. Our lawyers have practiced extensively before all the Courts of Uganda, the East African Court of Justice and the Tax Appeals Tribunal.</p>
-    <br/>
-    <p>Our team has over the years interacted with and created strong relations with Lawyers, Law Firms and professionals from diverse disciplines in Uganda and several other jurisdictions around the world to serve the clients better.</p>
+    <p>
+    PNK Advocates’ members have leveraged the local expertise of
+     top-rated, responsive, and prominent member firms to facilitate the cross-border
+      goals and needs of their clients. As members of an alliance dedicated to
+       building quality relationships between independent firms with similar 
+       standards of excellence and integrity,  PNK Advocates’ members can 
+       confidently refer their clients to like-minded firms they can trust.
+    </p>
 </div>
