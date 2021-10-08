@@ -49,6 +49,15 @@ $routes->add('send', 'Home::sendMessage');
 $routes->get('legal-team', 'Home::legalTeam');
 $routes->get('about-firm', 'Home::about');
 $routes->get('privacy-policy', 'Home::privacyPolicy');
+
+//admin routes
+
+$routes->get('admin/dashboard', 'AdminController::index');
+$routes->get('login', 'AdminController::login');
+$routes->add('admin/save', 'AdminController::saveStaff');
+$routes->add('admin/login', 'AdminController::auth');
+$routes->add('admin/logout', 'AdminController::logout');
+
 //$routes->add('vote/candidate/(:any)', 'VoteController::candidate/$1');
 /*
  * --------------------------------------------------------------------

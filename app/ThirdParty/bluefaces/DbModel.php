@@ -9,7 +9,7 @@
 
 define("HOST", 'localhost');
 define("USERNAME", 'root');
-define("DBNAME", 'scit_votes');
+define("DBNAME", 'pnk_advocates');
 define("PASSWORD", '');
 
 class DbModel
@@ -113,7 +113,7 @@ class DbModel
      * @param string $tableName The name of the table to insert the data to.
      * @param array $tableData An associative array containing column names and their data to insert in the table.
      *
-     * @return array|false ::rowCount|int Returns number of affected rows
+     * @return bool true or false
      * @throws PDOException
      */
     public  function insert(string $tableName, array $tableData) {
@@ -131,7 +131,7 @@ class DbModel
             $stmt->errorInfo();
             $this->_conn->commit();
             $this->reset();
-        return $this->_rows;
+        return $stmt->rowCount() > 0;
 
     }
 

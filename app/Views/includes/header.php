@@ -41,7 +41,7 @@
             <a href="<?= site_url('practice-areas') ?>" class="nav-item nav-link text-pink">Practice Areas</a>
             <a href="<?= site_url('contacts') ?>" class="nav-item nav-link text-pink">Contact Us</a>
             <a href="<?= site_url('privacy-policy') ?>" class="nav-item nav-link text-pink">Privacy Policy</a>
-            
+            <a href="<?= site_url('login') ?>" class="nav-item nav-link text-pink">Login</a>
         </div>
     </div>
 </nav>
